@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[if(isDebug==true)debugger;]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>ded</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope></scope> -->
+	<description>debug</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo '<pre>';print_r(${1:\$data});exit;]]></content>
+    <tabTrigger>bug2</tabTrigger>
+    <scope>source.php</scope>
+    <description>23123123</description>
+</snippet>

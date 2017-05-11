@@ -1,0 +1,5 @@
+[
+{ "keys": ["ctrl+alt+l"], "command": "reindent" , "args":{"single_line": false}},
+{ "keys": ["ctrl+alt+t"], "command": "sublimelinter_show_all_errors","args": {"event":"Show All Errors"}},
+
+]

@@ -1,0 +1,3916 @@
+{
+	"folder_history":
+	[
+		"/D/phpStudy/WWW/peixunfei",
+		"/D/phpStudy/WWW/tech1",
+		"/D/phpStudy/WWW/5988/web",
+		"/D/phpStudy/WWW/91cy",
+		"/D/phpStudy/WWW/5680/admin",
+		"/D/phpStudy/WWW/ax/web",
+		"/D/phpStudy/WWW/ax/admin",
+		"/D/phpStudy/WWW/5680/web",
+		"/D/phpStudy/WWW/7228/web",
+		"/D/phpStudy/WWW/54",
+		"/D/phpStudy/WWW/ax/m",
+		"/D/phpStudy/WWW/sjadmin",
+		"/D/phpStudy/WWW/u88/web",
+		"/D/phpStudy/WWW/7228",
+		"/D/phpStudy/WWW/5680",
+		"/D/phpStudy/WWW/7228/mobile",
+		"/D/phpStudy/WWW/3198/web",
+		"/D/phpStudy/WWW/803",
+		"/D/phpStudy/WWW/88h",
+		"/D/phpStudy/WWW/5988/qiye",
+		"/D/phpStudy/WWW/5988/admin",
+		"/D/phpStudy/WWW/ax",
+		"/D/phpStudy/WWW/5680/mobile",
+		"/D/phpStudy/WWW/n803/web",
+		"/D/phpStudy/WWW/803/web",
+		"/D/phpStudy/WWW/www.91kaidian.com",
+		"/D/phpStudy/WWW/5988/mqiye",
+		"/D/phpStudy/WWW/3198/m",
+		"/D/phpStudy/WWW/zhifu/web",
+		"/D/phpStudy/WWW/n5988",
+		"/D/phpStudy/WWW/code",
+		"/D/phpStudy/WWW/nadmin",
+		"/D/phpStudy/WWW/ls"
+	],
+	"last_version": 3126,
+	"last_window_id": 370,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"projects\t(Common.php)"
+					],
+					[
+						"hot",
+						"hot_fees\t(IndexController.php)"
+					],
+					[
+						"order",
+						"orderBy"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"Re",
+						"Region\t(FeesController.php)"
+					],
+					[
+						"iv",
+						"invest_cn\t(type.blade.php)"
+					],
+					[
+						"pag",
+						"paginate\t(FeesController.php)"
+					],
+					[
+						"i",
+						"iteration"
+					],
+					[
+						"inves",
+						"invest_cn"
+					],
+					[
+						"top",
+						"top_10\t(ProjectController.php)"
+					],
+					[
+						"ca",
+						"category\t(ProjectController.php)"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"ins",
+						"invest"
+					],
+					[
+						"inv",
+						"invest_cn\t(info.blade.php)"
+					],
+					[
+						"type",
+						"type_id\t(Project.php)"
+					],
+					[
+						"new_",
+						"new_news\t(ArticleController.php)"
+					],
+					[
+						"Modl",
+						"Models\t(Article.php)"
+					],
+					[
+						"new",
+						"new_password"
+					],
+					[
+						"Mo",
+						"Models"
+					],
+					[
+						"perm",
+						"permissions\t(PermissionController.php)"
+					],
+					[
+						"permin",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"per",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"A",
+						"Admin〔namespace〕"
+					],
+					[
+						"start",
+						"starts_with($vv\t(sidebar.blade.php)"
+					],
+					[
+						"all",
+						"all_menus"
+					],
+					[
+						"Login",
+						"LoginController\t(LoginController.php)"
+					],
+					[
+						"auth",
+						"auth('web"
+					],
+					[
+						"logo",
+						"logo_review"
+					],
+					[
+						"bro",
+						"browseLogo"
+					],
+					[
+						"conta",
+						"container1\t(_form.blade.php)"
+					],
+					[
+						"base",
+						"base64_decode"
+					],
+					[
+						"to",
+						"toArray\t(Command.php)"
+					],
+					[
+						"mt_",
+						"mt_rand〔function〕"
+					],
+					[
+						"sc",
+						"schools_ids"
+					],
+					[
+						"req",
+						"requrl"
+					],
+					[
+						"schoo",
+						"school_id"
+					],
+					[
+						"admin",
+						"admin_id"
+					],
+					[
+						"update",
+						"updated_at\t(SchoolController.php)"
+					],
+					[
+						"schools",
+						"schools_ids"
+					],
+					[
+						"status",
+						"status_at"
+					],
+					[
+						"sta",
+						"status_at\t(SchoolController.php)"
+					],
+					[
+						"ex",
+						"exception"
+					],
+					[
+						"osc",
+						"oschool_ext_filed"
+					],
+					[
+						"au",
+						"audit_at\t(info.blade.php)"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"remi",
+						"removeClass〔function〕"
+					],
+					[
+						"add",
+						"addClass〔function〕"
+					],
+					[
+						"right",
+						"rightLine"
+					],
+					[
+						"left",
+						"leftLine"
+					],
+					[
+						"c",
+						"coordinate"
+					],
+					[
+						"check",
+						"checkFrontier"
+					],
+					[
+						"righ",
+						"rightColumn"
+					],
+					[
+						"debug",
+						"debugger〔keyword〕"
+					],
+					[
+						"debu",
+						"debugger〔keyword〕"
+					],
+					[
+						"step_",
+						"step_2"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"head",
+						"headers"
+					],
+					[
+						"zt_",
+						"zt_url\t(list.blade.php)"
+					],
+					[
+						"art",
+						"articles\t(TeacherController.php)"
+					],
+					[
+						"cour",
+						"courses\t(TeacherController.php)"
+					],
+					[
+						"cou",
+						"courses\t(CostController.php)"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"area",
+						"areas\t(CostController.php)"
+					],
+					[
+						"seo",
+						"seo_title"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"key",
+						"keywords"
+					],
+					[
+						"ke",
+						"keywords"
+					],
+					[
+						"a",
+						"articleSEO〔function〕"
+					],
+					[
+						"min",
+						"min_cost"
+					],
+					[
+						"re",
+						"region_name\t(Controller.php)"
+					],
+					[
+						"tem",
+						"templet_id\t(edit.blade.php)"
+					],
+					[
+						"audi",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"S",
+						"School\t(NewsController.php)"
+					],
+					[
+						"xuei",
+						"xuexiao_url"
+					],
+					[
+						"pagin",
+						"paginate\t(SchoolController.php)"
+					],
+					[
+						"article",
+						"article_list"
+					],
+					[
+						"aud",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"lab",
+						"label"
+					],
+					[
+						"Sc",
+						"SchoolExt"
+					],
+					[
+						"xue",
+						"xuexiao_url"
+					],
+					[
+						"region",
+						"region_type"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"Ar",
+						"ArticleType"
+					],
+					[
+						"tar",
+						"target=\"_blank\t(ProjectController.php)"
+					],
+					[
+						"img",
+						"img_html"
+					],
+					[
+						"photos",
+						"photos"
+					],
+					[
+						"list",
+						"lists"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"cate",
+						"categorys"
+					],
+					[
+						"ptype",
+						"ptype_id"
+					],
+					[
+						"inve",
+						"invest"
+					],
+					[
+						"upda",
+						"updated_at"
+					],
+					[
+						"up",
+						"updated_at\t(KnowsController.php)"
+					],
+					[
+						"oper",
+						"operates\t(Project.php)"
+					],
+					[
+						"Project",
+						"ProjectController\t(ProjectController.php)"
+					],
+					[
+						"po",
+						"post〔function〕"
+					],
+					[
+						"args",
+						"args_news"
+					],
+					[
+						"app",
+						"app_name\t(project.php)"
+					],
+					[
+						"projec",
+						"projects_id"
+					],
+					[
+						"create",
+						"created_at\t(NewsController.php)"
+					],
+					[
+						"news",
+						"news_type"
+					],
+					[
+						"news_",
+						"news_type\t(project.php)"
+					],
+					[
+						"array_p",
+						"array_push〔function〕"
+					],
+					[
+						"chil",
+						"childrens"
+					],
+					[
+						"ty",
+						"type_name\t(NewsController.php)"
+					],
+					[
+						"invest",
+						"invest_cn\t(Project.php)"
+					],
+					[
+						"Model",
+						"Models\t(Project.php)"
+					],
+					[
+						"str",
+						"strip_tags($v\t(search.blade.php)"
+					],
+					[
+						"company",
+						"companyInfo\t(CompanyController.php)"
+					],
+					[
+						"get",
+						"getCacheMinutes〔function〕"
+					],
+					[
+						"Com",
+						"Comment"
+					],
+					[
+						"post",
+						"post_time"
+					],
+					[
+						"ar",
+						"args\t(ProjectController.php)"
+					],
+					[
+						"sub",
+						"subCategory\t(ProjectController.php)"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"route",
+						"routeParams"
+					],
+					[
+						"getR",
+						"getRouteParams〔function〕"
+					],
+					[
+						"rela",
+						"related_top_hot\t(ProjectController.php)"
+					],
+					[
+						"comm",
+						"comment_num"
+					],
+					[
+						"next",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"nex",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"pic",
+						"pic_key\t(show.blade.php)"
+					],
+					[
+						"upload",
+						"upload_image_url"
+					],
+					[
+						"upl",
+						"upload_image_url($item"
+					],
+					[
+						"file",
+						"file_key"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"GIT COM",
+						"Git: Commit"
+					],
+					[
+						"GIT STA",
+						"Git: Status"
+					],
+					[
+						"GIT ADD",
+						"Git: Quick Add"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ProjectController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/StoreController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/TopController.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Common.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/nav.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/list.blade.php",
+				"/D/phpStudy/WWW/91cy/config/app.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/FeesController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Seo.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/SEO.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/Controller.php",
+				"/D/phpStudy/WWW/91cy/config/project.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Base.php",
+				"/D/phpStudy/WWW/91cy/routes/web.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/SEO.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/info.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/CategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/CategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/seo.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/category/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Project.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/store/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/routes/admin.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/type.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Category.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/001f8af168aa5726e296d5638f66b311e2bd281e.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp29698/wwww/website/com91cy/storage/logs/laravel-2017-05-11.log",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/Project.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ProjectController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp35752/wwww/website/com91cy/storage/logs/laravel-2017-05-10.log",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/search.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Region.php",
+				"/D/phpStudy/WWW/91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Http/Middleware/Permission.php",
+				"/D/phpStudy/WWW/91cy/.gitignore",
+				"/D/phpStudy/WWW/91cy/composer.json",
+				"/C/Users/Administrator/AppData/Local/Temp/scp33367/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/config/debugbar.php",
+				"/D/phpStudy/WWW/91cy/resources/views/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/AppHttpControllersAdminUserController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp02453/wwww/website/com91cy/.env.example",
+				"/C/Users/Administrator/AppData/Local/Temp/scp55765/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/U.php",
+				"/D/phpStudy/WWW/91cy/public/index.php",
+				"/D/phpStudy/WWW/91cy/config/vip.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Article.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/5553608952581c6761c4fc78c4768bb717eaa421.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/vendor/pagination/default.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Controller.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/IndexController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.balde.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/foot.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/header.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/top.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/RouteServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/Controller.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php.bak",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/ArticleCategory.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/UserController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleCategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/head.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/permission/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/role/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/sidebar.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/login.blade.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Testing/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/ExpectationFailedException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/AssertionFailedError.php",
+				"/D/phpStudy/WWW/91cy/config/filesystems.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpExceptionInterface.php",
+				"/D/phpStudy/WWW/peixunfei/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Admin/CourseController.php",
+				"/D/phpStudy/WWW/peixunfei/.gitattributes",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Category.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/create.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/ProjectController.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/edit.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/54/config/auth.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Role.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/role/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Perminssion.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/perminssion/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Middleware/Promission.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/Auth/LoginController.php",
+				"/D/phpStudy/WWW/54/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/D/phpStudy/WWW/54/routes/admin.php"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"APP_LOG",
+					"entitle",
+					"images/",
+					"js/",
+					"css/",
+					"');\n",
+					"getTypeSname",
+					"search",
+					"404",
+					"school_name",
+					"content",
+					"content_input",
+					"#content",
+					"content",
+					"922",
+					"prospect",
+					"css/",
+					"cs/",
+					"js/",
+					"upload",
+					"w150",
+					"fore",
+					"school_id",
+					"hidden",
+					"uploadimage",
+					"status",
+					"oid",
+					"imgFile",
+					"loading",
+					"cove_image",
+					"json",
+					"cac",
+					"cacje",
+					"Topic",
+					"全部",
+					"city",
+					"城市",
+					"不限",
+					"<a",
+					"checkNeighbor",
+					"parent",
+					"Agent",
+					"com",
+					"attempt",
+					"_GET['p",
+					"DB",
+					"get",
+					"list",
+					"<a",
+					"types",
+					"region",
+					".js",
+					"characteristic",
+					"#",
+					"after",
+					"hel",
+					"seo",
+					"school",
+					"url",
+					"UTF2UCS",
+					"service",
+					"articles",
+					"js/",
+					"images/",
+					"css/",
+					"images",
+					"fore3",
+					"images",
+					"name",
+					"每日推荐",
+					"name()",
+					"Route",
+					"top12",
+					"more",
+					"dot1",
+					"7288",
+					"ajax",
+					"config",
+					"js",
+					"bd",
+					"css/",
+					"js",
+					"images/",
+					"致富商机",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"banWrap",
+					">\n",
+					"leave_msg",
+					"msg",
+					"level_",
+					"images/",
+					"js/",
+					"css/",
+					"postdata",
+					"url",
+					"images",
+					"css/",
+					"js/",
+					"pagination_select1",
+					"pagination_select1''",
+					"pagination_select1",
+					"project_pic",
+					"yui3-u",
+					"pic-scroller",
+					"suanla",
+					"logo",
+					"inj",
+					"in",
+					"invest",
+					"name()",
+					"{{dd",
+					"dd",
+					"11",
+					"111",
+					"sideAd",
+					"images/",
+					"images",
+					"images/",
+					"js/",
+					"css/",
+					"js/",
+					"images/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/web/images/",
+					"/web/js/",
+					"/web/css/",
+					"/web/js/",
+					"w220",
+					"w200",
+					"/web/js/",
+					"/web/images/",
+					"/web/css/",
+					"title",
+					"7228",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"name",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 174.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"001",
+						"storage\\framework\\views\\001f8af168aa5726e296d5638f66b311e2bd281e.php"
+					],
+					[
+						"555",
+						"storage\\framework\\views\\5553608952581c6761c4fc78c4768bb717eaa421.php"
+					],
+					[
+						"2e",
+						"storage\\framework\\views\\2cec7a4defd7661fd3681277c40774391f38ba02.php"
+					],
+					[
+						"cc15",
+						"storage\\framework\\views\\cc15fc0f23a114a4c5f39bdffa35af82ade72f08.php"
+					],
+					[
+						"ipto",
+						"app\\Http\\Middleware\\IpToRegion.php"
+					],
+					[
+						"info",
+						"resources\\views\\web\\school\\info.blade.php"
+					],
+					[
+						"index.js",
+						"public\\public\\js\\index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"projects\t(Common.php)"
+					],
+					[
+						"hot",
+						"hot_fees\t(IndexController.php)"
+					],
+					[
+						"order",
+						"orderBy"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"Re",
+						"Region\t(FeesController.php)"
+					],
+					[
+						"iv",
+						"invest_cn\t(type.blade.php)"
+					],
+					[
+						"pag",
+						"paginate\t(FeesController.php)"
+					],
+					[
+						"i",
+						"iteration"
+					],
+					[
+						"inves",
+						"invest_cn"
+					],
+					[
+						"top",
+						"top_10\t(ProjectController.php)"
+					],
+					[
+						"ca",
+						"category\t(ProjectController.php)"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"ins",
+						"invest"
+					],
+					[
+						"inv",
+						"invest_cn\t(info.blade.php)"
+					],
+					[
+						"type",
+						"type_id\t(Project.php)"
+					],
+					[
+						"new_",
+						"new_news\t(ArticleController.php)"
+					],
+					[
+						"Modl",
+						"Models\t(Article.php)"
+					],
+					[
+						"new",
+						"new_password"
+					],
+					[
+						"Mo",
+						"Models"
+					],
+					[
+						"perm",
+						"permissions\t(PermissionController.php)"
+					],
+					[
+						"permin",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"per",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"A",
+						"Admin〔namespace〕"
+					],
+					[
+						"start",
+						"starts_with($vv\t(sidebar.blade.php)"
+					],
+					[
+						"all",
+						"all_menus"
+					],
+					[
+						"Login",
+						"LoginController\t(LoginController.php)"
+					],
+					[
+						"auth",
+						"auth('web"
+					],
+					[
+						"logo",
+						"logo_review"
+					],
+					[
+						"bro",
+						"browseLogo"
+					],
+					[
+						"conta",
+						"container1\t(_form.blade.php)"
+					],
+					[
+						"base",
+						"base64_decode"
+					],
+					[
+						"to",
+						"toArray\t(Command.php)"
+					],
+					[
+						"mt_",
+						"mt_rand〔function〕"
+					],
+					[
+						"sc",
+						"schools_ids"
+					],
+					[
+						"req",
+						"requrl"
+					],
+					[
+						"schoo",
+						"school_id"
+					],
+					[
+						"admin",
+						"admin_id"
+					],
+					[
+						"update",
+						"updated_at\t(SchoolController.php)"
+					],
+					[
+						"schools",
+						"schools_ids"
+					],
+					[
+						"status",
+						"status_at"
+					],
+					[
+						"sta",
+						"status_at\t(SchoolController.php)"
+					],
+					[
+						"ex",
+						"exception"
+					],
+					[
+						"osc",
+						"oschool_ext_filed"
+					],
+					[
+						"au",
+						"audit_at\t(info.blade.php)"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"remi",
+						"removeClass〔function〕"
+					],
+					[
+						"add",
+						"addClass〔function〕"
+					],
+					[
+						"right",
+						"rightLine"
+					],
+					[
+						"left",
+						"leftLine"
+					],
+					[
+						"c",
+						"coordinate"
+					],
+					[
+						"check",
+						"checkFrontier"
+					],
+					[
+						"righ",
+						"rightColumn"
+					],
+					[
+						"debug",
+						"debugger〔keyword〕"
+					],
+					[
+						"debu",
+						"debugger〔keyword〕"
+					],
+					[
+						"step_",
+						"step_2"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"head",
+						"headers"
+					],
+					[
+						"zt_",
+						"zt_url\t(list.blade.php)"
+					],
+					[
+						"art",
+						"articles\t(TeacherController.php)"
+					],
+					[
+						"cour",
+						"courses\t(TeacherController.php)"
+					],
+					[
+						"cou",
+						"courses\t(CostController.php)"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"area",
+						"areas\t(CostController.php)"
+					],
+					[
+						"seo",
+						"seo_title"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"key",
+						"keywords"
+					],
+					[
+						"ke",
+						"keywords"
+					],
+					[
+						"a",
+						"articleSEO〔function〕"
+					],
+					[
+						"min",
+						"min_cost"
+					],
+					[
+						"re",
+						"region_name\t(Controller.php)"
+					],
+					[
+						"tem",
+						"templet_id\t(edit.blade.php)"
+					],
+					[
+						"audi",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"S",
+						"School\t(NewsController.php)"
+					],
+					[
+						"xuei",
+						"xuexiao_url"
+					],
+					[
+						"pagin",
+						"paginate\t(SchoolController.php)"
+					],
+					[
+						"article",
+						"article_list"
+					],
+					[
+						"aud",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"lab",
+						"label"
+					],
+					[
+						"Sc",
+						"SchoolExt"
+					],
+					[
+						"xue",
+						"xuexiao_url"
+					],
+					[
+						"region",
+						"region_type"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"Ar",
+						"ArticleType"
+					],
+					[
+						"tar",
+						"target=\"_blank\t(ProjectController.php)"
+					],
+					[
+						"img",
+						"img_html"
+					],
+					[
+						"photos",
+						"photos"
+					],
+					[
+						"list",
+						"lists"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"cate",
+						"categorys"
+					],
+					[
+						"ptype",
+						"ptype_id"
+					],
+					[
+						"inve",
+						"invest"
+					],
+					[
+						"upda",
+						"updated_at"
+					],
+					[
+						"up",
+						"updated_at\t(KnowsController.php)"
+					],
+					[
+						"oper",
+						"operates\t(Project.php)"
+					],
+					[
+						"Project",
+						"ProjectController\t(ProjectController.php)"
+					],
+					[
+						"po",
+						"post〔function〕"
+					],
+					[
+						"args",
+						"args_news"
+					],
+					[
+						"app",
+						"app_name\t(project.php)"
+					],
+					[
+						"projec",
+						"projects_id"
+					],
+					[
+						"create",
+						"created_at\t(NewsController.php)"
+					],
+					[
+						"news",
+						"news_type"
+					],
+					[
+						"news_",
+						"news_type\t(project.php)"
+					],
+					[
+						"array_p",
+						"array_push〔function〕"
+					],
+					[
+						"chil",
+						"childrens"
+					],
+					[
+						"ty",
+						"type_name\t(NewsController.php)"
+					],
+					[
+						"invest",
+						"invest_cn\t(Project.php)"
+					],
+					[
+						"Model",
+						"Models\t(Project.php)"
+					],
+					[
+						"str",
+						"strip_tags($v\t(search.blade.php)"
+					],
+					[
+						"company",
+						"companyInfo\t(CompanyController.php)"
+					],
+					[
+						"get",
+						"getCacheMinutes〔function〕"
+					],
+					[
+						"Com",
+						"Comment"
+					],
+					[
+						"post",
+						"post_time"
+					],
+					[
+						"ar",
+						"args\t(ProjectController.php)"
+					],
+					[
+						"sub",
+						"subCategory\t(ProjectController.php)"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"route",
+						"routeParams"
+					],
+					[
+						"getR",
+						"getRouteParams〔function〕"
+					],
+					[
+						"rela",
+						"related_top_hot\t(ProjectController.php)"
+					],
+					[
+						"comm",
+						"comment_num"
+					],
+					[
+						"next",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"nex",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"pic",
+						"pic_key\t(show.blade.php)"
+					],
+					[
+						"upload",
+						"upload_image_url"
+					],
+					[
+						"upl",
+						"upload_image_url($item"
+					],
+					[
+						"file",
+						"file_key"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Web/TeacherController.php",
+					"settings":
+					{
+						"buffer_size": 8337,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/peixunfei/resources/views/web/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 9150,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/peixunfei/resources/views/web/teacher/list.blade.php",
+					"settings":
+					{
+						"buffer_size": 10480,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"GIT COM",
+						"Git: Commit"
+					],
+					[
+						"GIT STA",
+						"Git: Status"
+					],
+					[
+						"GIT ADD",
+						"Git: Quick Add"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/phpStudy/WWW/peixunfei",
+				"/D/phpStudy/WWW/peixunfei/app",
+				"/D/phpStudy/WWW/peixunfei/app/Http",
+				"/D/phpStudy/WWW/peixunfei/app/Http/Controllers",
+				"/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Web",
+				"/D/phpStudy/WWW/peixunfei/resources",
+				"/D/phpStudy/WWW/peixunfei/resources/views",
+				"/D/phpStudy/WWW/peixunfei/resources/views/web",
+				"/D/phpStudy/WWW/peixunfei/resources/views/web/teacher"
+			],
+			"file_history":
+			[
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ProjectController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/StoreController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/TopController.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Common.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/nav.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/list.blade.php",
+				"/D/phpStudy/WWW/91cy/config/app.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/FeesController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Seo.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/SEO.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/Controller.php",
+				"/D/phpStudy/WWW/91cy/config/project.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Base.php",
+				"/D/phpStudy/WWW/91cy/routes/web.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/SEO.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/info.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/CategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/CategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/seo.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/category/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Project.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/store/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/routes/admin.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/type.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Category.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/001f8af168aa5726e296d5638f66b311e2bd281e.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp29698/wwww/website/com91cy/storage/logs/laravel-2017-05-11.log",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/Project.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ProjectController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp35752/wwww/website/com91cy/storage/logs/laravel-2017-05-10.log",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/search.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Region.php",
+				"/D/phpStudy/WWW/91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Http/Middleware/Permission.php",
+				"/D/phpStudy/WWW/91cy/.gitignore",
+				"/D/phpStudy/WWW/91cy/composer.json",
+				"/C/Users/Administrator/AppData/Local/Temp/scp33367/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/config/debugbar.php",
+				"/D/phpStudy/WWW/91cy/resources/views/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/AppHttpControllersAdminUserController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp02453/wwww/website/com91cy/.env.example",
+				"/C/Users/Administrator/AppData/Local/Temp/scp55765/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/U.php",
+				"/D/phpStudy/WWW/91cy/public/index.php",
+				"/D/phpStudy/WWW/91cy/config/vip.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Article.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/5553608952581c6761c4fc78c4768bb717eaa421.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/vendor/pagination/default.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Controller.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/IndexController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.balde.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/foot.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/header.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/top.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/RouteServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/Controller.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php.bak",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/ArticleCategory.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/UserController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleCategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/head.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/permission/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/role/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/sidebar.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/login.blade.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Testing/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/ExpectationFailedException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/AssertionFailedError.php",
+				"/D/phpStudy/WWW/91cy/config/filesystems.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpExceptionInterface.php",
+				"/D/phpStudy/WWW/peixunfei/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Admin/CourseController.php",
+				"/D/phpStudy/WWW/peixunfei/.gitattributes",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Category.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/create.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/ProjectController.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/edit.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/54/config/auth.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Role.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/role/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Perminssion.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/perminssion/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Middleware/Promission.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/Auth/LoginController.php",
+				"/D/phpStudy/WWW/54/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/D/phpStudy/WWW/54/routes/admin.php"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"chunk",
+					"APP_LOG",
+					"entitle",
+					"images/",
+					"js/",
+					"css/",
+					"');\n",
+					"getTypeSname",
+					"search",
+					"404",
+					"school_name",
+					"content",
+					"content_input",
+					"#content",
+					"content",
+					"922",
+					"prospect",
+					"css/",
+					"cs/",
+					"js/",
+					"upload",
+					"w150",
+					"fore",
+					"school_id",
+					"hidden",
+					"uploadimage",
+					"status",
+					"oid",
+					"imgFile",
+					"loading",
+					"cove_image",
+					"json",
+					"cac",
+					"cacje",
+					"Topic",
+					"全部",
+					"city",
+					"城市",
+					"不限",
+					"<a",
+					"checkNeighbor",
+					"parent",
+					"Agent",
+					"com",
+					"attempt",
+					"_GET['p",
+					"DB",
+					"get",
+					"list",
+					"<a",
+					"types",
+					"region",
+					".js",
+					"characteristic",
+					"#",
+					"after",
+					"hel",
+					"seo",
+					"school",
+					"url",
+					"UTF2UCS",
+					"service",
+					"articles",
+					"js/",
+					"images/",
+					"css/",
+					"images",
+					"fore3",
+					"images",
+					"name",
+					"每日推荐",
+					"name()",
+					"Route",
+					"top12",
+					"more",
+					"dot1",
+					"7288",
+					"ajax",
+					"config",
+					"js",
+					"bd",
+					"css/",
+					"js",
+					"images/",
+					"致富商机",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"banWrap",
+					">\n",
+					"leave_msg",
+					"msg",
+					"level_",
+					"images/",
+					"js/",
+					"css/",
+					"postdata",
+					"url",
+					"images",
+					"css/",
+					"js/",
+					"pagination_select1",
+					"pagination_select1''",
+					"pagination_select1",
+					"project_pic",
+					"yui3-u",
+					"pic-scroller",
+					"suanla",
+					"logo",
+					"inj",
+					"in",
+					"invest",
+					"name()",
+					"{{dd",
+					"dd",
+					"11",
+					"111",
+					"sideAd",
+					"images/",
+					"images",
+					"images/",
+					"js/",
+					"css/",
+					"js/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/web/images/",
+					"/web/js/",
+					"/web/css/",
+					"/web/js/",
+					"w220",
+					"w200",
+					"/web/js/",
+					"/web/images/",
+					"/web/css/",
+					"title",
+					"7228",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"name",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\phpStudy\\WWW\\peixunfei"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Web/TeacherController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8337,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5323,
+										5323
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 1653.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/phpStudy/WWW/peixunfei/resources/views/web/index.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9150,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/phpStudy/WWW/peixunfei/resources/views/web/teacher/list.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10480,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10123,
+										10123
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2736.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 174.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,588,50,50,706",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"001",
+						"storage\\framework\\views\\001f8af168aa5726e296d5638f66b311e2bd281e.php"
+					],
+					[
+						"555",
+						"storage\\framework\\views\\5553608952581c6761c4fc78c4768bb717eaa421.php"
+					],
+					[
+						"2e",
+						"storage\\framework\\views\\2cec7a4defd7661fd3681277c40774391f38ba02.php"
+					],
+					[
+						"cc15",
+						"storage\\framework\\views\\cc15fc0f23a114a4c5f39bdffa35af82ade72f08.php"
+					],
+					[
+						"ipto",
+						"app\\Http\\Middleware\\IpToRegion.php"
+					],
+					[
+						"info",
+						"resources\\views\\web\\school\\info.blade.php"
+					],
+					[
+						"index.js",
+						"public\\public\\js\\index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 370,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"upda",
+						"updated_at\t(SEOController.php)"
+					],
+					[
+						"hot",
+						"hot_news\t(IndexController.php)"
+					],
+					[
+						"str",
+						"str_limit\t(list.blade.php)"
+					],
+					[
+						"pro",
+						"projects\t(Common.php)"
+					],
+					[
+						"order",
+						"orderBy"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"Re",
+						"Region\t(FeesController.php)"
+					],
+					[
+						"iv",
+						"invest_cn\t(type.blade.php)"
+					],
+					[
+						"pag",
+						"paginate\t(FeesController.php)"
+					],
+					[
+						"i",
+						"iteration"
+					],
+					[
+						"inves",
+						"invest_cn"
+					],
+					[
+						"top",
+						"top_10\t(ProjectController.php)"
+					],
+					[
+						"ca",
+						"category\t(ProjectController.php)"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"ins",
+						"invest"
+					],
+					[
+						"inv",
+						"invest_cn\t(info.blade.php)"
+					],
+					[
+						"type",
+						"type_id\t(Project.php)"
+					],
+					[
+						"new_",
+						"new_news\t(ArticleController.php)"
+					],
+					[
+						"Modl",
+						"Models\t(Article.php)"
+					],
+					[
+						"new",
+						"new_password"
+					],
+					[
+						"Mo",
+						"Models"
+					],
+					[
+						"perm",
+						"permissions\t(PermissionController.php)"
+					],
+					[
+						"permin",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"per",
+						"perminssions\t(AuthServiceProvider.php)"
+					],
+					[
+						"A",
+						"Admin〔namespace〕"
+					],
+					[
+						"start",
+						"starts_with($vv\t(sidebar.blade.php)"
+					],
+					[
+						"all",
+						"all_menus"
+					],
+					[
+						"Login",
+						"LoginController\t(LoginController.php)"
+					],
+					[
+						"auth",
+						"auth('web"
+					],
+					[
+						"logo",
+						"logo_review"
+					],
+					[
+						"bro",
+						"browseLogo"
+					],
+					[
+						"conta",
+						"container1\t(_form.blade.php)"
+					],
+					[
+						"base",
+						"base64_decode"
+					],
+					[
+						"to",
+						"toArray\t(Command.php)"
+					],
+					[
+						"mt_",
+						"mt_rand〔function〕"
+					],
+					[
+						"sc",
+						"schools_ids"
+					],
+					[
+						"req",
+						"requrl"
+					],
+					[
+						"schoo",
+						"school_id"
+					],
+					[
+						"admin",
+						"admin_id"
+					],
+					[
+						"update",
+						"updated_at\t(SchoolController.php)"
+					],
+					[
+						"schools",
+						"schools_ids"
+					],
+					[
+						"status",
+						"status_at"
+					],
+					[
+						"sta",
+						"status_at\t(SchoolController.php)"
+					],
+					[
+						"ex",
+						"exception"
+					],
+					[
+						"osc",
+						"oschool_ext_filed"
+					],
+					[
+						"au",
+						"audit_at\t(info.blade.php)"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"remi",
+						"removeClass〔function〕"
+					],
+					[
+						"add",
+						"addClass〔function〕"
+					],
+					[
+						"right",
+						"rightLine"
+					],
+					[
+						"left",
+						"leftLine"
+					],
+					[
+						"c",
+						"coordinate"
+					],
+					[
+						"check",
+						"checkFrontier"
+					],
+					[
+						"righ",
+						"rightColumn"
+					],
+					[
+						"debug",
+						"debugger〔keyword〕"
+					],
+					[
+						"debu",
+						"debugger〔keyword〕"
+					],
+					[
+						"step_",
+						"step_2"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"head",
+						"headers"
+					],
+					[
+						"zt_",
+						"zt_url\t(list.blade.php)"
+					],
+					[
+						"art",
+						"articles\t(TeacherController.php)"
+					],
+					[
+						"cour",
+						"courses\t(TeacherController.php)"
+					],
+					[
+						"cou",
+						"courses\t(CostController.php)"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"s",
+						"style\tAttr"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"area",
+						"areas\t(CostController.php)"
+					],
+					[
+						"seo",
+						"seo_title"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"key",
+						"keywords"
+					],
+					[
+						"ke",
+						"keywords"
+					],
+					[
+						"a",
+						"articleSEO〔function〕"
+					],
+					[
+						"min",
+						"min_cost"
+					],
+					[
+						"re",
+						"region_name\t(Controller.php)"
+					],
+					[
+						"tem",
+						"templet_id\t(edit.blade.php)"
+					],
+					[
+						"audi",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"S",
+						"School\t(NewsController.php)"
+					],
+					[
+						"xuei",
+						"xuexiao_url"
+					],
+					[
+						"pagin",
+						"paginate\t(SchoolController.php)"
+					],
+					[
+						"article",
+						"article_list"
+					],
+					[
+						"aud",
+						"audit_at\t(CostController.php)"
+					],
+					[
+						"lab",
+						"label"
+					],
+					[
+						"Sc",
+						"SchoolExt"
+					],
+					[
+						"xue",
+						"xuexiao_url"
+					],
+					[
+						"region",
+						"region_type"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"Ar",
+						"ArticleType"
+					],
+					[
+						"tar",
+						"target=\"_blank\t(ProjectController.php)"
+					],
+					[
+						"img",
+						"img_html"
+					],
+					[
+						"photos",
+						"photos"
+					],
+					[
+						"list",
+						"lists"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"cate",
+						"categorys"
+					],
+					[
+						"ptype",
+						"ptype_id"
+					],
+					[
+						"inve",
+						"invest"
+					],
+					[
+						"up",
+						"updated_at\t(KnowsController.php)"
+					],
+					[
+						"oper",
+						"operates\t(Project.php)"
+					],
+					[
+						"Project",
+						"ProjectController\t(ProjectController.php)"
+					],
+					[
+						"po",
+						"post〔function〕"
+					],
+					[
+						"args",
+						"args_news"
+					],
+					[
+						"app",
+						"app_name\t(project.php)"
+					],
+					[
+						"projec",
+						"projects_id"
+					],
+					[
+						"create",
+						"created_at\t(NewsController.php)"
+					],
+					[
+						"news",
+						"news_type"
+					],
+					[
+						"news_",
+						"news_type\t(project.php)"
+					],
+					[
+						"array_p",
+						"array_push〔function〕"
+					],
+					[
+						"chil",
+						"childrens"
+					],
+					[
+						"ty",
+						"type_name\t(NewsController.php)"
+					],
+					[
+						"invest",
+						"invest_cn\t(Project.php)"
+					],
+					[
+						"Model",
+						"Models\t(Project.php)"
+					],
+					[
+						"company",
+						"companyInfo\t(CompanyController.php)"
+					],
+					[
+						"get",
+						"getCacheMinutes〔function〕"
+					],
+					[
+						"Com",
+						"Comment"
+					],
+					[
+						"post",
+						"post_time"
+					],
+					[
+						"ar",
+						"args\t(ProjectController.php)"
+					],
+					[
+						"sub",
+						"subCategory\t(ProjectController.php)"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"route",
+						"routeParams"
+					],
+					[
+						"getR",
+						"getRouteParams〔function〕"
+					],
+					[
+						"rela",
+						"related_top_hot\t(ProjectController.php)"
+					],
+					[
+						"comm",
+						"comment_num"
+					],
+					[
+						"next",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"nex",
+						"next_project\t(ProjectController.php)"
+					],
+					[
+						"pic",
+						"pic_key\t(show.blade.php)"
+					],
+					[
+						"upload",
+						"upload_image_url"
+					],
+					[
+						"upl",
+						"upload_image_url($item"
+					],
+					[
+						"file",
+						"file_key"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/IndexController.php",
+					"settings":
+					{
+						"buffer_size": 698,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Local/Temp/scp57700/wwww/website/www.91kaidian.com/data/conf/route.php",
+					"settings":
+					{
+						"buffer_size": 2304,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/app/Util/Web/Common.php",
+					"settings":
+					{
+						"buffer_size": 3909,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Local/Temp/scp49473/wwww/website/com91cy/.env",
+					"settings":
+					{
+						"buffer_size": 679,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 17255,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/article/list.blade.php",
+					"settings":
+					{
+						"buffer_size": 5281,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/project/info.blade.php",
+					"settings":
+					{
+						"buffer_size": 12291,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/SEOController.php",
+					"settings":
+					{
+						"buffer_size": 3863,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/errors/404.blade.php",
+					"settings":
+					{
+						"buffer_size": 101,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/vendor/pagination/default.blade.php",
+					"settings":
+					{
+						"buffer_size": 1321,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/composer.json",
+					"settings":
+					{
+						"buffer_size": 1345,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/project/list.blade.php",
+					"settings":
+					{
+						"buffer_size": 10419,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/layouts/nav.blade.php",
+					"settings":
+					{
+						"buffer_size": 1452,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/phpStudy/WWW/91cy/resources/views/web/top/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 4846,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"GIT COM",
+						"Git: Commit"
+					],
+					[
+						"GIT STA",
+						"Git: Status"
+					],
+					[
+						"GIT ADD",
+						"Git: Quick Add"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/phpStudy/WWW/91cy",
+				"/D/phpStudy/WWW/91cy/app",
+				"/D/phpStudy/WWW/91cy/app/Http",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web",
+				"/D/phpStudy/WWW/91cy/app/Models/Web",
+				"/D/phpStudy/WWW/91cy/app/Providers",
+				"/D/phpStudy/WWW/91cy/app/Util",
+				"/D/phpStudy/WWW/91cy/app/Util/Web",
+				"/D/phpStudy/WWW/91cy/resources",
+				"/D/phpStudy/WWW/91cy/resources/views",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/store",
+				"/D/phpStudy/WWW/91cy/resources/views/errors",
+				"/D/phpStudy/WWW/91cy/resources/views/vendor",
+				"/D/phpStudy/WWW/91cy/resources/views/vendor/pagination",
+				"/D/phpStudy/WWW/91cy/resources/views/web",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top",
+				"/D/phpStudy/WWW/91cy/storage/framework"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Local/Temp/scp17855/wwww/website/peixunfei/web/public/uploads/picture/avatars/d4b081d93d051ba167bd036890712fa3.png",
+				"/C/Users/Administrator/AppData/Local/Temp/scp17709/wwww/website/peixunfei/web/public/uploads/picture/avatars/5ef43647d29b945482791aa8aa982f37.jpeg",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ProjectController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/StoreController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/TopController.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Common.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/nav.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/article/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/list.blade.php",
+				"/D/phpStudy/WWW/91cy/config/app.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/FeesController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Seo.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/SEO.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/Controller.php",
+				"/D/phpStudy/WWW/91cy/config/project.php",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/Base.php",
+				"/D/phpStudy/WWW/91cy/routes/web.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/SEO.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/project/info.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/CategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/CategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/seo.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/category/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Project.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/store/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/routes/admin.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/top/type.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Category.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/001f8af168aa5726e296d5638f66b311e2bd281e.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp29698/wwww/website/com91cy/storage/logs/laravel-2017-05-11.log",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ProjectCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/Project.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ProjectController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp35752/wwww/website/com91cy/storage/logs/laravel-2017-05-10.log",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/search.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/list.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Region.php",
+				"/D/phpStudy/WWW/91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Http/Middleware/Permission.php",
+				"/D/phpStudy/WWW/91cy/.gitignore",
+				"/D/phpStudy/WWW/91cy/composer.json",
+				"/C/Users/Administrator/AppData/Local/Temp/scp33367/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/config/debugbar.php",
+				"/D/phpStudy/WWW/91cy/resources/views/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/AppHttpControllersAdminUserController.php",
+				"/C/Users/Administrator/AppData/Local/Temp/scp02453/wwww/website/com91cy/.env.example",
+				"/C/Users/Administrator/AppData/Local/Temp/scp55765/wwww/website/com91cy/.env",
+				"/D/phpStudy/WWW/91cy/app/Util/Web/U.php",
+				"/D/phpStudy/WWW/91cy/public/index.php",
+				"/D/phpStudy/WWW/91cy/config/vip.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Web/Article.php",
+				"/D/phpStudy/WWW/91cy/storage/framework/views/5553608952581c6761c4fc78c4768bb717eaa421.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/vendor/pagination/default.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Controller.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/IndexController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/store/list.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/fees/info.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/sitemap.balde.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/foot.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/header.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/web/layouts/top.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php",
+				"/D/phpStudy/WWW/91cy/app/Providers/RouteServiceProvider.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/Controller.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleController.php.bak",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Models/Admin/ArticleCategory.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/UserController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/ArticleCategoryController.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/articleCategory/index.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/ArticleCategoryUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/main.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/head.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserCreateRequest.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/errors/404.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/permission/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/user/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/app/Http/Requests/UserUpdateRequest.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/role/_form.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/layouts/sidebar.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/91cy/resources/views/admin/login.blade.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Testing/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/ExpectationFailedException.php",
+				"/D/phpStudy/WWW/91cy/vendor/phpunit/phpunit/src/Framework/AssertionFailedError.php",
+				"/D/phpStudy/WWW/91cy/config/filesystems.php",
+				"/D/phpStudy/WWW/91cy/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpException.php",
+				"/D/phpStudy/WWW/91cy/vendor/symfony/http-kernel/Exception/HttpExceptionInterface.php",
+				"/D/phpStudy/WWW/peixunfei/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/peixunfei/app/Http/Controllers/Admin/CourseController.php",
+				"/D/phpStudy/WWW/peixunfei/.gitattributes",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Category.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/create.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/ProjectController.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/edit.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/_form.blade.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/project/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Providers/AuthServiceProvider.php",
+				"/D/phpStudy/WWW/54/config/auth.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/RoleController.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/RoleUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Role.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/role/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionCreateRequest.php",
+				"/D/phpStudy/WWW/54/app/Http/Requests/PerminssionUpdateRequest.php",
+				"/D/phpStudy/WWW/54/app/Models/Admin/Perminssion.php",
+				"/D/phpStudy/WWW/54/resources/views/admin/perminssion/index.blade.php",
+				"/D/phpStudy/WWW/54/app/Http/Middleware/Promission.php",
+				"/D/phpStudy/WWW/54/app/Http/Controllers/Admin/Auth/LoginController.php"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"APP_LOG",
+					"entitle",
+					"images/",
+					"js/",
+					"css/",
+					"');\n",
+					"getTypeSname",
+					"search",
+					"404",
+					"school_name",
+					"content",
+					"content_input",
+					"#content",
+					"content",
+					"922",
+					"prospect",
+					"css/",
+					"cs/",
+					"js/",
+					"upload",
+					"w150",
+					"fore",
+					"school_id",
+					"hidden",
+					"uploadimage",
+					"status",
+					"oid",
+					"imgFile",
+					"loading",
+					"cove_image",
+					"json",
+					"cac",
+					"cacje",
+					"Topic",
+					"全部",
+					"city",
+					"城市",
+					"不限",
+					"<a",
+					"checkNeighbor",
+					"parent",
+					"Agent",
+					"com",
+					"attempt",
+					"_GET['p",
+					"DB",
+					"get",
+					"list",
+					"<a",
+					"types",
+					"region",
+					".js",
+					"characteristic",
+					"#",
+					"after",
+					"hel",
+					"seo",
+					"school",
+					"url",
+					"UTF2UCS",
+					"service",
+					"articles",
+					"js/",
+					"images/",
+					"css/",
+					"images",
+					"fore3",
+					"images",
+					"name",
+					"每日推荐",
+					"name()",
+					"Route",
+					"top12",
+					"more",
+					"dot1",
+					"7288",
+					"ajax",
+					"config",
+					"js",
+					"bd",
+					"css/",
+					"js",
+					"images/",
+					"致富商机",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"js/",
+					"css/",
+					"images/",
+					"banWrap",
+					">\n",
+					"leave_msg",
+					"msg",
+					"level_",
+					"images/",
+					"js/",
+					"css/",
+					"postdata",
+					"url",
+					"images",
+					"css/",
+					"js/",
+					"pagination_select1",
+					"pagination_select1''",
+					"pagination_select1",
+					"project_pic",
+					"yui3-u",
+					"pic-scroller",
+					"suanla",
+					"logo",
+					"inj",
+					"in",
+					"invest",
+					"name()",
+					"{{dd",
+					"dd",
+					"11",
+					"111",
+					"sideAd",
+					"images/",
+					"images",
+					"images/",
+					"js/",
+					"css/",
+					"js/",
+					"images/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/web/images/",
+					"/web/js/",
+					"/web/css/",
+					"/web/js/",
+					"w220",
+					"w200",
+					"/web/js/",
+					"/web/images/",
+					"/web/css/",
+					"title",
+					"7228",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"name",
+					"/public/images/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public/js/",
+					"/public/images/",
+					"/public/css/",
+					"/public/js/",
+					"/public/css/",
+					"/public"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\phpStudy\\WWW\\91cy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/phpStudy/WWW/91cy/app/Http/Controllers/Web/IndexController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 698,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										647,
+										647
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/AppData/Local/Temp/scp57700/wwww/website/www.91kaidian.com/data/conf/route.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2304,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/phpStudy/WWW/91cy/app/Util/Web/Common.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3909,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3133,
+										3133
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 912.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Administrator/AppData/Local/Temp/scp49473/wwww/website/com91cy/.env",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 679,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										85,
+										85
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/index.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17255,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9284,
+										9284
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5244.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/article/list.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5281,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										638,
+										684
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/project/info.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12291,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3234,
+										3234
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 228.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/phpStudy/WWW/91cy/app/Http/Controllers/Admin/SEOController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3863,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/errors/404.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 101,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 76.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/vendor/pagination/default.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1321,
+										1321
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 114.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/D/phpStudy/WWW/91cy/composer.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										913,
+										913
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/project/list.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10419,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10376,
+										10376
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4881.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/layouts/nav.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1431,
+										1431
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/D/phpStudy/WWW/91cy/resources/views/web/top/index.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4846,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										944,
+										944
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 174.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,538,133,0,789",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"001",
+						"storage\\framework\\views\\001f8af168aa5726e296d5638f66b311e2bd281e.php"
+					],
+					[
+						"555",
+						"storage\\framework\\views\\5553608952581c6761c4fc78c4768bb717eaa421.php"
+					],
+					[
+						"2e",
+						"storage\\framework\\views\\2cec7a4defd7661fd3681277c40774391f38ba02.php"
+					],
+					[
+						"cc15",
+						"storage\\framework\\views\\cc15fc0f23a114a4c5f39bdffa35af82ade72f08.php"
+					],
+					[
+						"ipto",
+						"app\\Http\\Middleware\\IpToRegion.php"
+					],
+					[
+						"info",
+						"resources\\views\\web\\school\\info.blade.php"
+					],
+					[
+						"index.js",
+						"public\\public\\js\\index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 363,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

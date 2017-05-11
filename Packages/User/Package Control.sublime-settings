@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"ChineseTranslator",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Nodejs",
+		"Package Control",
+		"Package Syncing",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SyncedSideBar",
+		"Tagify",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TortoiseSVN"
+	]
+}
